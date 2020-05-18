@@ -1,5 +1,5 @@
 public class HelloTrigger2World{
 	public static void main(String[] args){
-		System.out.println("Hello Trigger1");
+		System.out.println("Hello Trigger2 Raja");
 	}
 }
